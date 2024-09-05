@@ -1,28 +1,35 @@
 # Prodigy InfoTech Data Science Internship Task 2:
 <br>
-<img src=ds1.png   >
+<img src=ds 2.png   >
 
-Welcome to my submission for Task 1 of the Data Science Internship at `Prodigy Infotech`. In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualization to represent the distribution of a categorical or continuous variable.
+Welcome to my submission for Task 2 of the Data Science Internship at Prodigy Infotech. In this task, I performed Data Preprocessing and Feature Engineering on a provided dataset, focusing on preparing the data for predictive modeling.
 
 ## Dataset
 
-The dataset used for this task is <a href=worldpopulationdata.csv>world_population_dataset</a>. This dataset contains records of population from the year 2001 to 2022. 
+The dataset used for this task is <a href=worldpopulationdata.csv>world_population_dataset</a>. 
 
 ## Tools and Libraries used
 - Jupyter notebook
 - Pandas
 - Numpy
 - Matplotlip & Seaborn for visualization
-
+- Scikit-learn
 
 
 ## Exploratory Data Analysis (EDA)
 
 During the EDA process, I performed the following steps:
 
-1. **Data Cleaning**: Checked for missing values, duplicates, and outliers in the dataset and handled them accordingly.
+1. **Data Cleaning**: Handled missing values, duplicates, and outliers in the dataset to ensure the quality of the data.
+   
+3. **Feature Engineering**: Created new features that might help improve the performance of predictive models. This included:
 
-2. **Visualization**: Created a bar chart, stacked chart to visualize the distribution of a categorical or continuous variable. 
+Normalization and standardization of numerical features.
+Encoding categorical variables.
+Creation of interaction terms and polynomial features.
+Selection of relevant features based on correlation analysis.
+
+3. **Visualization**: Created a bar chart, stacked chart to visualize the distribution of a categorical or continuous variable. 
 
 
 
@@ -30,7 +37,6 @@ During the EDA process, I performed the following steps:
 
 In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
 
-Thank you for reviewing my submission!
 
 ## 📬 Contact
 
