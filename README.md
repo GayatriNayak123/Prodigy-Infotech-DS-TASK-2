@@ -1,12 +1,12 @@
 # Prodigy InfoTech Data Science Internship Task 2:
 <br>
-<img src=ds 2.png   >
+<img src=ds2.png>
 
 Welcome to my submission for Task 2 of the Data Science Internship at Prodigy Infotech. In this task, I performed Data Preprocessing and Feature Engineering on a provided dataset, focusing on preparing the data for predictive modeling.
 
 ## Dataset
 
-The dataset used for this task is <a href=worldpopulationdata.csv>world_population_dataset</a>. 
+The dataset used for this task is <a href=test.csv>test_dataset</a>. 
 
 ## Tools and Libraries used
 - Jupyter notebook
